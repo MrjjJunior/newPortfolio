@@ -1,0 +1,31 @@
+
+body{
+    background-color: #0e5133;
+}
+
+nav {
+
+    ul {
+        background-color: black;
+        
+        display: flex;
+        gap: 20px
+    }
+    li {
+        background-color: black;
+        color: white;
+        list-style: none;
+        border-spacing: 10;
+    }
+
+}
+
+.hero {
+h1{
+    font-size: 205px;
+}
+}
+
+/* h1{
+    font-size: 205px;
+} */
